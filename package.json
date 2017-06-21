@@ -1,0 +1,24 @@
+{
+  "name": "w5d3pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuastronomy/w5d3pro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuastronomy/w5d3pro/issues"
+  },
+  "homepage": "https://github.com/joshuastronomy/w5d3pro#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mustache-express": "^1.2.4"
+  }
+}
